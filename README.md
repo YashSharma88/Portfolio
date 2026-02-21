@@ -6,16 +6,19 @@ Welcome to my personal portfolio repository.
 Here I share my complete learning path, skills, goals, and the projects I am building as I grow as a Data Analyst.
 
 👨‍💻 About Me
-BSc 1st Year Student from Gorakhpur
-Aspiring Data Analyst & Data Scientist
+Graduation in B.Sc (Mathematics) from Rajasthan University
+Aspiring Data Analyst
 Passionate about turning raw data into meaningful insights
 Learning industry-level tools used in real companies
-🛠️ Technical Skills Learning
-Python: NumPy, Pandas, Matplotlib, Seaborn, Plotly
-SQL: Joins, Aggregations, CTE, Window Functions
-Data Visualization: Power BI
-Tools: JupyterLab, VS Code, GitHub
-📈 Learning Progress
+
+🛠️ Technical Skills Learning :
+
+Python : NumPy, Pandas, Matplotlib, Seaborn, Plotly
+SQL : Joins, Aggregations, CTE, Window Functions
+Data Visualization : Power BI, Tabluau
+Tools : JupyterLab, VS Code, GitHub
+
+📈 Learning Progress :
 ✅ Python Programming Fundamentals
 ✅ NumPy & Pandas Mastery
 ✅ Data Visualization with Matplotlib, Seaborn, Plotly
@@ -26,13 +29,15 @@ Tools: JupyterLab, VS Code, GitHub
 ✅ Excel
 I update this journey regularly as I learn and improve.
 
-🎯 Goals
+🎯 Goals :
 Become a job-ready Data Analyst by 2026
 Build 5+ real-world projects
 Get an internship opportunity
 Master SQL and Power BI
 Start building strong Data Science foundations
-📂 Projects
+
+📂 Projects :
+
 📊 WhatsApp Chat Analysis — Python & Streamlit
 🗄️ Data: WhatsApp exported .txt chat file
 🧠 Focus: Data Cleaning, Pandas, Regex, Visualization, Streamlit Dashboard
